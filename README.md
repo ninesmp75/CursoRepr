@@ -1,4 +1,4 @@
-# CursoRepr
+# CursoRepr -2022
 Curso Reproducibilidad CSIC
 
 ## Aim of this repository
